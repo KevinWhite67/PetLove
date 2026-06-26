@@ -16,7 +16,7 @@ El objetivo del sistema es promover una cruza controlada y organizada, facilitan
 
 ---
 
-## ❗ Problemática
+## Problemática
 
 En muchos casos, la cruza de mascotas se realiza de manera informal, sin información adecuada sobre compatibilidad, historial de salud o características de los animales. Esto puede generar problemas de salud, falta de control y dificultad para encontrar coincidencias adecuadas.
 
