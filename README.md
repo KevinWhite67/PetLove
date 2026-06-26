@@ -1,4 +1,4 @@
-# 🐾 PetLove
+#  PetLove
 
 <p align="center">
   <img src="https://img.shields.io/badge/Proyecto-PetLove-4CAF50?style=for-the-badge"/>
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 **PetLove** es una aplicación desarrollada en **.NET** con **C#** y base de datos **PostgreSQL**, enfocada en la conexión entre dueños de mascotas interesados en la cruza responsable de animales. La plataforma permite gestionar perfiles de mascotas, encontrar coincidencias compatibles y facilitar el contacto entre usuarios.
 
@@ -24,7 +24,7 @@ Además, no existe una plataforma centralizada que permita a los dueños de masc
 
 ---
 
-## 💡 Solución Propuesta
+##  Solución Propuesta
 
 Se desarrolló una aplicación que permite:
 
@@ -39,7 +39,7 @@ La plataforma centraliza la información y facilita la conexión entre usuarios 
 
 ---
 
-## 🏗️ Arquitectura
+##  Arquitectura
 
 El sistema está basado en una **arquitectura cliente-servidor**.
 
@@ -51,7 +51,7 @@ La aplicación sigue un enfoque estructurado utilizando capas para separar la l�
 
 ---
 
-## ⚙️ Desarrollo del Proyecto
+##  Desarrollo del Proyecto
 
 El desarrollo inició con el análisis de los requerimientos del sistema y la definición de entidades principales como usuarios y mascotas.
 
@@ -63,7 +63,7 @@ Finalmente se realizaron pruebas funcionales para validar el registro de usuario
 
 ---
 
-## 🧰 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Backend
 - .NET
@@ -80,7 +80,7 @@ Finalmente se realizaron pruebas funcionales para validar el registro de usuario
 
 ---
 
-## 📊 Resultados Obtenidos
+##  Resultados Obtenidos
 
 Se logró desarrollar una aplicación funcional capaz de gestionar usuarios y mascotas, permitiendo la interacción entre ellos para fines de cruza responsable.
 
@@ -88,7 +88,7 @@ El sistema permite centralizar la información de mascotas, facilitando la búsq
 
 ---
 
-## 🌍 Impacto
+##  Impacto
 
 PetLove contribuye a la digitalización del proceso de cruza de mascotas, brindando una plataforma estructurada que ayuda a evitar prácticas informales y promueve una mejor organización entre dueños de animales.
 
@@ -96,7 +96,7 @@ Además, el proyecto fortaleció conocimientos en desarrollo con .NET, diseño d
 
 ---
 
-## 🚧 Estado del Proyecto
+##  Estado del Proyecto
 
 🟡 **En desarrollo**
 
